@@ -1,0 +1,29 @@
+/* This is a comment */
+
+body {
+    font-family: Times, 'Times New Roman', serif;
+    background-color: aquamarine;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+a {
+    font-size: 48px;
+    color:blue;
+}
+
+a:hover {
+    background-color: darkblue;
+    color: white;
+    font-size: 52px;
+}
+
+#navbar {
+    display: flex;
+    flex-direction: row;
+    justify-content:space-around;
+    
+}
+
